@@ -1,4 +1,4 @@
-# Olá, eu sou a Raiane Lage 👋
+# Olá, eu sou Raiane Lage 👋
 
 > Service Desk | Estudante de Segurança da Informação | Especialista em Infraestrutura
 
